@@ -6,7 +6,7 @@
 
 # Run commands one by one
 
->> git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+>> git clone https://github.com/spyeye-dz/-Facebook-BruteForce
 
 >> cd Facebook-BruteForce
 
