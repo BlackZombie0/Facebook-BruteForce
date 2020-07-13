@@ -1,4 +1,4 @@
-# -Facebook-BruteForce
+# Facebook-BruteForce
 
 # Install Requirements(Linux)
 
